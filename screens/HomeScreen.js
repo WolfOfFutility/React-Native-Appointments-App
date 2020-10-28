@@ -15,7 +15,7 @@ import Animated from 'react-native-reanimated';
 
 import {Appbar, List, Divider} from "react-native-paper"
 
-const address = "10.0.0.2:3000"
+const address = "10.0.2.2:3000"
 
 class HomeScreen extends React.Component {
     constructor(props) {

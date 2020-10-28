@@ -12,7 +12,7 @@ import {
   ImageBackground, Pressable
 } from 'react-native';
 
-const address = "10.0.0.2:3000"
+const address = "10.0.2.2:3000"
 
 import {TextInput} from "react-native-paper"
 

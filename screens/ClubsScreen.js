@@ -13,7 +13,7 @@ import {
 } from 'react-native';
 import Animated from 'react-native-reanimated';
 
-const address = "10.0.0.2:3000"
+const address = "10.0.2.2:3000"
 
 import {Appbar} from "react-native-paper"
 

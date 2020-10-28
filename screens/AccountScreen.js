@@ -16,7 +16,7 @@ import Animated from 'react-native-reanimated';
 import {Appbar, List, Avatar, ProgressBar, Button} from "react-native-paper"
 import { lightBlue } from '@material-ui/core/colors';
 
-const address = "10.0.0.2:3000"
+const address = "10.0.2.2:3000"
 
 class AccountScreen extends React.Component {
     constructor(props) {
